@@ -1,6 +1,6 @@
 name: Deploy in a containerized App Service
 
-on:
+on: 
   push:
     branches:
       - main
